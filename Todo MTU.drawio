@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Side-1" id="f-J3g82cPgyO91hj3K22">
+    <mxGraphModel dx="2066" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bSc6vBT5VVhTJROnP31U-3" edge="1" parent="1" source="bSc6vBT5VVhTJROnP31U-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bSc6vBT5VVhTJROnP31U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSc6vBT5VVhTJROnP31U-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fjern skorsten" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bSc6vBT5VVhTJROnP31U-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lægter" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="bSc6vBT5VVhTJROnP31U-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="bSc6vBT5VVhTJROnP31U-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="90" />
+              <mxPoint x="110" y="260" />
+              <mxPoint x="120" y="260" />
+              <mxPoint x="120" y="390" />
+            </Array>
+            <mxPoint x="50" y="90" as="sourcePoint" />
+            <mxPoint x="430" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSc6vBT5VVhTJROnP31U-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Økonmien?" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSc6vBT5VVhTJROnP31U-11" edge="1" parent="1" source="bSc6vBT5VVhTJROnP31U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bSc6vBT5VVhTJROnP31U-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSc6vBT5VVhTJROnP31U-9" parent="1" style="whiteSpace=wrap;html=1;" value="Lader" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bSc6vBT5VVhTJROnP31U-10" parent="1" style="whiteSpace=wrap;html=1;" value="Behold OK eller ej?" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
